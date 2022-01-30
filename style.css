@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+  background-color: #00fa9a;
+}
+
+header p{
+  color:blue;
+}
+
+header a{
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+h1{
+    font-family: i;
+    color: purple
+}
+
+footer{
+    border: solid 10px plum;
+
+}
+
+nav{
+    border: solid 2px silver;
+}
+
+nav a{
+    padding: 35px;
+    text-align: centre ;
+    text-decoration: none ;
+    color: silver;
+}
+
+header img{
+    padding: 10px;
+}
+
+.la{
+    background-color: limegreen;
+}
+
+.c{
+    color: LightSeaGreen;
+    font-size: 35px;
+}

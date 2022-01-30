@@ -27,6 +27,8 @@ footer{
 
 nav{
     border: solid 2px silver;
+    margin: 10px;
+    padding:5px
 }
 
 nav a{
